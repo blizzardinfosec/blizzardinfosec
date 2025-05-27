@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🛡️ Detection Engineering Portfolio
 
-<!--
-**blizzardinfosec/blizzardinfosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome. I’m a blue team engineer focused on real-world threat detection, automation, and incident response. This GitHub showcases my work in:
 
-Here are some ideas to get you started:
+- ✅ Detection-as-Code (Sigma Rules, MITRE ATT&CK mappings)
+- 🛠️ Custom blue team tools (EDR automation, log normalization)
+- ☁️ Cloud and SaaS threat detection (Okta, AWS, M365)
+- 📘 Incident response playbooks and analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is an evolving library of real-world defensive work, built for practical use.
+
+---
+
+### 🔍 Featured Projects
+
+- `sigma-rules-custom` – My growing set of high-signal, low-noise Sigma rules
+- `edr-response-scripts` – Tools for automating incident response in CrowdStrike, SentinelOne, Defender
+- `detection-as-code-pipeline` – CI/CD pipeline for testing, converting, and deploying detection logic
+- `incident-response-checklists` – Practical blue team playbooks for common attacks (BEC, ransomware)
+
+---
+
+🧠 _Detection is an engineering problem. I build to solve it._
