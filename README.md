@@ -18,7 +18,3 @@ This is an evolving library of real-world defensive work, built for practical us
 - `detection-as-code-pipeline` – CI/CD pipeline for testing, converting, and deploying detection logic
 - `incident-response-checklists` – Practical blue team playbooks for common attacks (BEC, ransomware)
 - `log-source-onboarding` – Real-world examples of ingesting and normalizing logs from Okta, AWS, and Sysmon
-
----
-
-🧠 _Detection is an engineering problem. I build to solve it._
